@@ -27,8 +27,9 @@
 5. [配置文件](https://github.com/MagicMC-Dev/ItemsAdder-wiki_zh/blob/main/%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6.md)
 6. [一些配置上的问题](https://github.com/MagicMC-Dev/ItemsAdder-wiki_zh/blob/main/%E4%B8%80%E4%BA%9B%E9%85%8D%E7%BD%AE%E4%B8%8A%E7%9A%84%E9%97%AE%E9%A2%98.md)
 7. [总体配置结构](https://github.com/MagicMC-Dev/ItemsAdder-wiki_zh/blob/main/%E6%80%BB%E4%BD%93%E9%85%8D%E7%BD%AE%E7%BB%93%E6%9E%84.md)
-8. [物品方块添加](https://github.com/MagicMC-Dev/ItemsAdder-wiki_zh/blob/main/%E7%89%A9%E5%93%81%E6%96%B9%E5%9D%97%E6%B7%BB%E5%8A%A0.md)
-9. [物品属性](https://github.com/MagicMC-Dev/ItemsAdder-wiki_zh/blob/main/%E7%89%A9%E5%93%81%E5%B1%9E%E6%80%A7.md)
-10. [动作与事件](https://github.com/MagicMC-Dev/ItemsAdder-wiki_zh/blob/main/%E5%8A%A8%E4%BD%9C%E4%B8%8E%E4%BA%8B%E4%BB%B6.md)
-11. [插件挂钩](https://github.com/MagicMC-Dev/ItemsAdder-wiki_zh/blob/main/%E6%8F%92%E4%BB%B6%E6%8C%82%E9%92%A9.md)
+8. [方块添加](https://github.com/MagicMC-Dev/ItemsAdder-wiki_zh/blob/main/%E7%89%A9%E5%93%81%E6%96%B9%E5%9D%97%E6%B7%BB%E5%8A%A0.md)
+9. 
+10. [物品属性](https://github.com/MagicMC-Dev/ItemsAdder-wiki_zh/blob/main/%E7%89%A9%E5%93%81%E5%B1%9E%E6%80%A7.md)
+11. [动作与事件](https://github.com/MagicMC-Dev/ItemsAdder-wiki_zh/blob/main/%E5%8A%A8%E4%BD%9C%E4%B8%8E%E4%BA%8B%E4%BB%B6.md)
+12. [插件挂钩](https://github.com/MagicMC-Dev/ItemsAdder-wiki_zh/blob/main/%E6%8F%92%E4%BB%B6%E6%8C%82%E9%92%A9.md)
  
