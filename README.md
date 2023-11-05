@@ -30,7 +30,8 @@
 8. [方块添加](https://github.com/MagicMC-Dev/ItemsAdder-wiki_zh/blob/main/方块添加.md)
 9. [物品添加](https://github.com/MagicMC-Dev/ItemsAdder-wiki_zh/blob/main/物品添加.md)
 10. [物品属性](https://github.com/MagicMC-Dev/ItemsAdder-wiki_zh/blob/main/物品属性.md)
-11. [物品分类](https://github.com/MagicMC-Dev/ItemsAdder-wiki_zh/blob/main/物品分类.md)
-12. [动作与事件](https://github.com/MagicMC-Dev/ItemsAdder-wiki_zh/blob/main/动作与属性.md)
-13. [插件挂钩](https://github.com/MagicMC-Dev/ItemsAdder-wiki_zh/blob/main/插件挂钩.md)
+11. [自定义custom_model_data](https://github.com/MagicMC-Dev/ItemsAdder-wiki_zh/blob/main/自定义custom_model_data.md)
+12. [物品分类](https://github.com/MagicMC-Dev/ItemsAdder-wiki_zh/blob/main/物品分类.md)
+13. [动作与事件](https://github.com/MagicMC-Dev/ItemsAdder-wiki_zh/blob/main/动作与属性.md)
+14. [插件挂钩](https://github.com/MagicMC-Dev/ItemsAdder-wiki_zh/blob/main/插件挂钩.md)
  
